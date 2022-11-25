@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Index page default template.
+ * WP REST API custom routes & callbacks.
  *
  * @package WordPress
  * @subpackage critick

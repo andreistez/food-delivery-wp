@@ -8,10 +8,7 @@
  */
 ?>
 
-			<footer class="footer">
-			</footer>
-			<?php wp_footer() ?>
-		</div><!-- .wrapper -->
+		<?php wp_footer() ?>
     </body>
 </html>
 

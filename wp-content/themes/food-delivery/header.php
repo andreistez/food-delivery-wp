@@ -47,7 +47,3 @@ $uri = get_template_directory_uri();
 <body <?php body_class() ?>>
 	<?php wp_body_open() ?>
 
-	<div class="wrapper">
-		<header class="header">
-		</header>
-
