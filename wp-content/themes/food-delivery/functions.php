@@ -7,6 +7,8 @@
  * @subpackage critick
  */
 
+declare( strict_types = 1 );
+
 add_action( 'after_setup_theme', 'critick_load_theme_dependencies' );
 /**
  * Theme dependencies.
